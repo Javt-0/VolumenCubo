@@ -7,7 +7,7 @@ import dominio.Cubo;
  *
  * @author jonat
  */
-public class VolumenCubo {
+public class CuboMain {
 
     
     public static void main(String[] args) {

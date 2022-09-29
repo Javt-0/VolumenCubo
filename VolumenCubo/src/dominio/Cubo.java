@@ -61,7 +61,6 @@ public class Cubo {
     //Metodos
     public double volumen(Cubo c){
         double vol = c.alto * c.ancho * c.profundidad;
-        
         return vol;
     }
 }
