@@ -9,7 +9,6 @@ import dominio.Cubo;
  */
 public class CuboMain {
 
-    
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
         System.out.print("Dame el ancho del cubo:");
